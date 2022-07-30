@@ -1,8 +1,9 @@
 ### Hi there 👋 Nice to see u.
 
-- 😄 My name is: yourname ...
-- ⚡ Student id: ...
-- 🔭 I'm currently studying on Faculty of Engineering.
+- 😄 My name is: Sudarat Sriphuwong
+- ⚡ Student id: 63366769
+- 🔭 I'm currently studying on Faculty of Computer Engineering.
+- 📖 Career interest in the future: Java Developer
 
 ## Developer Tech
 
@@ -56,3 +57,15 @@
     <img src="svg/devices/pc.svg" alt="pc" style="vertical-align:top; margin:6px 4px">
   </a>
 </p>
+
+## Favorite Subject 
+- [ ] Database
+- [x] Computer Networks
+- [ ] Computer Architecture and Organization
+- [x] Operating Systems
+- [x] Embedded System 1
+
+## Ability to write coding languages
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=java&logoColor=white)
+![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
